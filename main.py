@@ -35,7 +35,7 @@ translation_matrix = np.array([[1, 0, 0, 0],
                                 [0, 0, 1, 0],
                                 [0, 0, 0, 1]])
 
-# [x, y, z, ]
+# [x, y, z]
 cube_vertices = np.array([[4, -1, -18, 1], # Vertex 0 (back bottom left)
                             [2, -1, -18, 1], # Vertex 1 (back bottom right)
                             [2, 1, -18, 1], # Vertex 2 (front bottom right)
